@@ -1,7 +1,7 @@
 /*
   autor: Vinist021;
-  data: 14/02/2024;
-  nome: Viva a Ciência!; 
+  data: 14/02/2025;
+  nome: Viva a Ciência! 
 */
 
 #include <stdio.h>
