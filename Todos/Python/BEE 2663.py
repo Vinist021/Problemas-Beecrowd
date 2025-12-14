@@ -1,6 +1,6 @@
 #   autor: Vinist021;
 #   data: 06/01/2025;
-#   nome: Churras no Yuri;
+#   nome: Fase;
 
 N = int(input())
 K = int(input())
